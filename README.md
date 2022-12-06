@@ -1,6 +1,8 @@
 # Chat Application *OCTO*
 
-A new Flutter project.
+https://user-images.githubusercontent.com/63293974/205841900-440d2a04-abf9-4dd9-803c-f679888dadbd.mp4
+
+
 
 ## Getting Started
 
